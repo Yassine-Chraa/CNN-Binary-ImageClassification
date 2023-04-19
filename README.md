@@ -1,1 +1,1 @@
-# CNN-Binary-ImageClassification
+# CNN-ImageClassification
